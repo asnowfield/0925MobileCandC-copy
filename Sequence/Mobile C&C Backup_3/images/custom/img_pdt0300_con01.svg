@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="835" height="346.783" viewBox="0 0 835 346.783">
+    <defs>
+        <clipPath id="d8x2rl9kka">
+            <path data-name="사각형 2578" style="fill:none" d="M0 0h9.225v11.339H0z"/>
+        </clipPath>
+        <clipPath id="hmknlemmwb">
+            <path data-name="사각형 2579" style="fill:none" d="M0 0h25.332v39.573H0z"/>
+        </clipPath>
+        <clipPath id="g622h1uzfc">
+            <path data-name="사각형 2580" style="fill:none" d="M0 0h52.072v55.65H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 3697">
+        <path data-name="패스 19828" d="M5538.409 249.6v-89.572h-94.123v74.178" transform="rotate(90 2802.432 -2517.694)" style="stroke-width:2px;stroke:#a2a2a2;fill:none"/>
+        <g data-name="그룹 3667">
+            <g data-name="타원 313" transform="translate(388.037)" style="stroke:#333;stroke-width:2px;fill:none">
+                <circle cx="14.767" cy="14.767" r="14.767" style="stroke:none"/>
+                <circle cx="14.767" cy="14.767" r="13.767" style="fill:none"/>
+            </g>
+            <g data-name="그룹 3666" transform="translate(396.396 6.465)">
+                <ellipse data-name="타원 314" cx="3.409" cy="3.408" rx="3.409" ry="3.408" transform="translate(2.898)" style="fill:#333"/>
+                <path data-name="패스 19824" d="M4.958 22.5v-2.075c0-2.758 2.869-4.994 6.409-4.994s6.408 2.236 6.408 4.994V22.5z" transform="translate(-4.958 -7.342)" style="fill:#333"/>
+            </g>
+        </g>
+        <text data-name="관리자 웹사이트" transform="translate(402.803 45.783)" style="font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;font-size:12px;fill:#1f1f1f"><tspan x="-40.002" y="0">관리자 웹사이트</tspan></text>
+        <text data-name="레거시 시스템" transform="translate(800 127.133)" style="font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;font-size:12px;fill:#1f1f1f"><tspan x="-34.482" y="0">레거시 시스템</tspan></text>
+        <g data-name="그룹 3670" transform="translate(-458 -85.277)">
+            <rect data-name="사각형 305" width="41.146" height="73.969" rx="7" transform="translate(458 172.06)" style="fill:#333"/>
+            <rect data-name="사각형 2575" width="23" height="23" rx="5" transform="translate(467 216)" style="fill:#fff"/>
+            <text transform="translate(479 230)" style="font-size:8px;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;fill:#1f1f1f"><tspan x="-7.716" y="0">App</tspan></text>
+            <text transform="translate(479 206)" style="font-size:8px;fill:#fff;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700"><tspan x="-13.836" y="0">iPhone</tspan></text>
+            <g data-name="그룹 3669">
+                <g data-name="그룹 3668" transform="translate(474.388 184.661)" style="clip-path:url(#d8x2rl9kka)">
+                    <path data-name="패스 19825" d="M7.7 13.237a2.575 2.575 0 0 1 1.227-2.162 2.638 2.638 0 0 0-2.074-1.123c-.874-.092-1.722.524-2.167.524s-1.141-.515-1.879-.5A2.769 2.769 0 0 0 .478 11.4c-1.007 1.74-.256 4.3.709 5.712.483.69 1.047 1.461 1.785 1.433.722-.03.991-.46 1.863-.46s1.117.46 1.87.443c.775-.013 1.263-.693 1.728-1.39a5.675 5.675 0 0 0 .791-1.61A2.489 2.489 0 0 1 7.7 13.237" transform="translate(0 -7.207)" style="fill:#fff"/>
+                    <path data-name="패스 19826" d="M18.361 1.817A2.53 2.53 0 0 0 18.94 0a2.58 2.58 0 0 0-1.669.864 2.412 2.412 0 0 0-.6 1.75 2.133 2.133 0 0 0 1.685-.8" transform="translate(-12.078)" style="fill:#fff"/>
+                </g>
+            </g>
+        </g>
+        <g data-name="그룹 3671" transform="translate(-458 -85.277)">
+            <rect data-name="사각형 2576" width="41.146" height="73.969" rx="7" transform="translate(458 267.06)" style="fill:#333"/>
+            <rect data-name="사각형 2577" width="23" height="23" rx="5" transform="translate(467 311)" style="fill:#fff"/>
+            <text data-name="App" transform="translate(479 325)" style="font-size:8px;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;fill:#1f1f1f"><tspan x="-7.716" y="0">App</tspan></text>
+            <text data-name="Android Phone" transform="translate(479 294)" style="font-size:8px;fill:#fff;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700"><tspan x="-15.744" y="0">Android</tspan><tspan x="-12.62" y="8">Phone</tspan></text>
+            <path d="M159.1 196.982a.595.595 0 1 1 .595-.595.595.595 0 0 1-.595.595m-6.576 0a.595.595 0 1 1 .595-.595.595.595 0 0 1-.595.595m6.789-3.584 1.189-2.058a.247.247 0 1 0-.428-.247l-1.2 2.085a7.474 7.474 0 0 0-6.116 0l-1.2-2.085a.248.248 0 1 0-.431.247l1.189 2.059a7.02 7.02 0 0 0-3.642 5.619h14.291a7.021 7.021 0 0 0-3.642-5.619" transform="translate(322.33 86.307)" style="fill:#3ddc84"/>
+        </g>
+        <g data-name="그룹 3651">
+            <path data-name="사각형 127" transform="translate(310.426 86.783)" style="fill:#2297fc" d="M0 0h184v155H0z"/>
+            <text data-name="bizPush™ Server" transform="translate(402.426 160.783)" style="font-size:18px;fill:#fff;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700"><tspan x="-43.965" y="0">bizPush™ </tspan><tspan x="-29.106" y="22">Server</tspan></text>
+        </g>
+        <path data-name="패스 19813" d="m0 6.466 9.424 6.288V0z" transform="translate(43.788 117.783)" style="fill:#a2a2a2"/>
+        <path data-name="패스 19827" d="m0 6.466 9.424 6.288V0z" transform="rotate(180 152.897 88.799)" style="fill:#a2a2a2"/>
+        <path data-name="패스 19837" d="m0 6.466 9.424 6.288V0z" transform="translate(499.059 164.845)" style="fill:#a2a2a2"/>
+        <path data-name="패스 19840" d="m0 6.466 9.424 6.288V0z" transform="rotate(-90 469.575 -204.4)" style="fill:#a2a2a2"/>
+        <path data-name="패스 19829" d="M7536.709 255.438h176.582" transform="translate(-7412.209 -84.217)" style="stroke-width:2px;stroke:#a2a2a2;fill:none"/>
+        <path data-name="패스 19838" d="M7536.709 255.438h266.531" transform="rotate(180 4153.505 213.33)" style="stroke-width:2px;stroke:#a2a2a2;fill:none"/>
+        <path data-name="패스 19839" d="M7718 255.438h-181.291v-52.325" transform="rotate(180 4108.53 230.83)" style="stroke-width:2px;stroke:#a2a2a2;fill:none"/>
+        <g data-name="그룹 3672">
+            <path data-name="패스 19830" d="m0 6.466 9.424 6.288V0z" transform="rotate(-90 334.48 -61.946)" style="fill:#a2a2a2"/>
+            <path data-name="패스 19831" d="M7536.709 255.438h18.659" transform="rotate(90 3974.352 -3316.111)" style="stroke-width:2px;stroke:#a2a2a2;fill:none"/>
+        </g>
+        <g data-name="그룹 3678">
+            <path data-name="패스 19830" d="m0 6.466 9.424 6.288V0z" transform="rotate(-90 238.98 -157.446)" style="fill:#a2a2a2"/>
+            <path data-name="패스 19831" d="M7536.709 255.438h18.659" transform="rotate(90 4069.852 -3411.611)" style="stroke-width:2px;stroke:#a2a2a2;fill:none"/>
+        </g>
+        <text data-name="Device 등록 수신확인" transform="translate(211 145.783)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-31.23" y="0">Device 등록</tspan><tspan x="-22.08" y="14">수신확인</tspan></text>
+        <text data-name="푸시 데이터 (pushInfo + pushData)" transform="translate(594 145.783)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-28.944" y="0">푸시 데이터</tspan><tspan x="-62.316" y="14">(pushInfo + pushData)</tspan></text>
+        <text data-name="푸시키/디바이스/사용자/그룹 정보" transform="translate(680 344.783)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-85.824" y="0">푸시키/디바이스/사용자/그룹 정보</tspan></text>
+        <text data-name="(HTTPS)" transform="translate(211 189.783)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-24.192" y="0">(HTTPS)</tspan></text>
+        <text transform="translate(680.352 280.29)" style="font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;font-size:12px;fill:#1f1f1f"><tspan x="-8.37" y="0">DB</tspan></text>
+        <g data-name="그룹 3647">
+            <path data-name="사각형 127" transform="translate(310.426 278.783)" style="fill:#753ef0" d="M0 0h184v62H0z"/>
+            <text data-name="Firebase Cloud Messaging (FCM)" transform="translate(403.426 306.783)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;fill:#fff;font-size:12px"><tspan x="-42.372" y="0">Firebase Cloud</tspan><tspan x="-47.88" y="14">Messaging (FCM)</tspan></text>
+        </g>
+        <g data-name="그룹 3680">
+            <g data-name="그룹 3679" style="clip-path:url(#hmknlemmwb)" transform="translate(667.686 286.25)">
+                <path data-name="패스 19841" d="M12.666 0a25.334 25.334 0 0 1 8.728 1.378c2.428.854 3.937 2.166 3.937 3.675V12.8a2.617 2.617 0 0 1-.59 1.575 2.358 2.358 0 0 1 .59 1.576v7.678a2.358 2.358 0 0 1-.59 1.576 2.617 2.617 0 0 1 .59 1.575v7.74c0 1.509-1.509 2.822-3.937 3.675a25.334 25.334 0 0 1-8.728 1.378 25.33 25.33 0 0 1-8.728-1.378C1.509 37.341 0 36.029 0 34.52v-7.744A2.617 2.617 0 0 1 .59 25.2 2.358 2.358 0 0 1 0 23.626v-7.679a2.358 2.358 0 0 1 .59-1.576A2.617 2.617 0 0 1 0 12.8V5.053c0-1.509 1.509-2.821 3.937-3.675A25.33 25.33 0 0 1 12.666 0m8.269 2.625a24.521 24.521 0 0 0-8.269-1.312A24.515 24.515 0 0 0 4.4 2.625C2.5 3.282 1.316 4.2 1.316 5.119S2.494 6.89 4.4 7.613a24.648 24.648 0 0 0 8.269 1.247 24.653 24.653 0 0 0 8.269-1.247c1.9-.723 3.084-1.575 3.084-2.494s-1.181-1.837-3.084-2.494M1.18 9.582c.329 0 .591.459.591.985 0 .59-.262.983-.591.983-.262 0-.524-.393-.524-.983 0-.526.262-.985.524-.985m4.07 23.56c.328 0 .59.459.59 1.05 0 .525-.262.985-.59.985-.262 0-.524-.46-.524-.985 0-.591.262-1.05.524-1.05m-2.231-.723c.328 0 .524.46.524.985 0 .59-.2 1.05-.524 1.05-.262 0-.525-.46-.525-1.05 0-.525.262-.985.525-.985M1.18 31.3c.329 0 .591.46.591.985s-.262.985-.591.985c-.262 0-.524-.459-.524-.985s.262-.985.524-.985m4.07-8.991c.328 0 .59.46.59.985 0 .59-.262.985-.59.985-.262 0-.524-.394-.524-.985 0-.525.262-.985.524-.985m-2.231-.723c.328 0 .524.46.524.985s-.2.985-.524.985c-.262 0-.525-.459-.525-.985s.262-.985.525-.985m-1.839-1.11c.329 0 .591.393.591.984 0 .526-.262.985-.591.985-.262 0-.524-.459-.524-.985 0-.59.262-.984.524-.984m4.07-8.992c.328 0 .59.393.59.985 0 .526-.262.985-.59.985-.262 0-.524-.459-.524-.985 0-.591.262-.985.524-.985m-2.231-.721c.328 0 .524.393.524.984 0 .526-.2.984-.524.984-.262 0-.525-.459-.525-.984 0-.59.262-.984.525-.984m20.8 15.356a11.921 11.921 0 0 1-2.428 1.247 27.167 27.167 0 0 1-8.728 1.312 27.162 27.162 0 0 1-8.728-1.312 13.9 13.9 0 0 1-2.426-1.246 1.265 1.265 0 0 0-.2.657v.065c0 .919 1.181 1.771 3.084 2.494a24.645 24.645 0 0 0 8.269 1.247 24.65 24.65 0 0 0 8.269-1.247c1.9-.723 3.084-1.575 3.084-2.494v-.065a1.266 1.266 0 0 0-.2-.657m0-10.829a9.271 9.271 0 0 1-2.428 1.181 25.332 25.332 0 0 1-8.728 1.379 25.328 25.328 0 0 1-8.728-1.379 10.4 10.4 0 0 1-2.428-1.181 1.113 1.113 0 0 0-.2.657c0 .918 1.181 1.838 3.084 2.494a24.536 24.536 0 0 0 8.269 1.313 24.542 24.542 0 0 0 8.269-1.313c1.9-.656 3.084-1.576 3.084-2.494a1.114 1.114 0 0 0-.2-.657" style="fill:#262626;fill-rule:evenodd"/>
+            </g>
+        </g>
+        <g data-name="그룹 3682">
+            <g data-name="그룹 3681" style="clip-path:url(#g622h1uzfc)" transform="translate(774 136.133)">
+                <path data-name="패스 19842" d="M2.329 55.65H25.2a2.415 2.415 0 0 0 2.413-2.413V2.413A2.415 2.415 0 0 0 25.2 0H2.329A2.4 2.4 0 0 0 0 2.413v50.824a2.4 2.4 0 0 0 2.329 2.413m21.628-7.321v1.248a.9.9 0 0 1-.831.832H4.492a.911.911 0 0 1-.916-.832v-1.248a.911.911 0 0 1 .916-.831h18.633a.894.894 0 0 1 .831.831M40.843 24.29a3.494 3.494 0 1 0-3.494-3.49 3.514 3.514 0 0 0 3.493 3.495m8.236 16.3v1a.612.612 0 0 1-.666.665H33.273a.679.679 0 0 1-.748-.665v-1a.732.732 0 0 1 .748-.665h15.139a.656.656 0 0 1 .666.665m0 4.575v1a.656.656 0 0 1-.666.665H33.273a.733.733 0 0 1-.748-.665v-1a.745.745 0 0 1 .748-.748h15.139a.68.68 0 0 1 .666.748m0 4.575v.916a.68.68 0 0 1-.666.748H33.273a.745.745 0 0 1-.748-.748v-.916a.746.746 0 0 1 .748-.749h15.139a.681.681 0 0 1 .666.749m-35.27-32.692a4.244 4.244 0 1 0-4.325-4.243 4.261 4.261 0 0 0 4.326 4.243m10.148 20.13v1.165a.911.911 0 0 1-.831.914H4.492a.923.923 0 0 1-.916-.914v-1.165a.924.924 0 0 1 .916-.916h18.633a.912.912 0 0 1 .831.916m0 5.573v1.166a.91.91 0 0 1-.831.914H4.492a.923.923 0 0 1-.916-.914v-1.166a.854.854 0 0 1 .916-.831h18.633a.833.833 0 0 1 .831.831m7.57 12.895h18.633a1.993 1.993 0 0 0 1.913-1.913V12.311a1.934 1.934 0 0 0-1.913-1.911H31.526a1.882 1.882 0 0 0-1.913 1.913v41.424a1.936 1.936 0 0 0 1.913 1.913" style="fill:#262626;fill-rule:evenodd"/>
+            </g>
+        </g>
+    </g>
+</svg>

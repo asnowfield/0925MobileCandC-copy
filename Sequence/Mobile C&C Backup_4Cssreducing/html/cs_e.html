@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link rel="icon" type="image/png" href="../images/favicon.png" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- SEO -->
+	<meta name="description" content="당신은! 얼마나 많은 지식을 기억하는가! 정말 재밌는 퀴즈를 알아보자~! 세상에서 가장 맛있는 음식은 뭘까?">
+	<meta name="keywords" content="퀴즈, 정말, 명지대, snowfield, 정보통신공학과, ICT, SW, Quiz">
+	<meta name="author" content="snowfield"">
+	<!-- 카톡 페이스북 SEO -->
+	<meta property=" og:locale" content="ko">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="정말? 퀴즈! Oh? Quiz!">
+	<meta property="og:description" content="당신은! 얼마나 많은 지식을 기억하는가! 정말 재밌는 퀴즈를 알아보자~! 세상에서 가장 맛있는 음식은 뭘까?">
+	<meta property="og:site_name" content="정말? 퀴즈! Oh? Quiz!">
+	<meta property="og:url" content="http://snowfield.cf">
+	<meta property="og:image" content="../images/custom/Hamburger.png">
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="627" />
+	<!-- 트위터 SEO -->
+	<meta name="twitter:card" content="website">
+	<meta name="twitter:url" content="http://snowfield.cf/">
+	<meta name="twitter:title" content="정말? 퀴즈! Oh? Quiz!">
+	<meta name="twitter:description" content="당신은! 얼마나 많은 지식을 기억하는가! 정말 재밌는 퀴즈를 알아보자~! 세상에서 가장 맛있는 음식은 뭘까?">
+	<meta name="twitter:image" content="../images/custom/Hamburger.png">
+	<title>정말? 퀴즈!</title>
+	<link rel="stylesheet" href="/css/custom.css">
+	<link rel="stylesheet" href="/css/game.css">
+	<link rel="stylesheet" href="/css/plugins.css">
+	<link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+	<div class="body-inner">
+		<!-- Header -->
+		<header id="header" data-transparent="true" data-fullwidth="true" class="dark submenu-light">
+			<div class="header-inner">
+				<div class="container">
+					<!--Logo-->
+					<div id="logo">
+						<a href="/html/index.html">
+							<span class="logo-default"><img src="../images/custom/mcnc_logo_b.png" alt="" /></span>
+							<span class="logo-dark"><img src="../images/custom/mcnc_logo_w.png" alt="" /></span>
+						</a>
+					</div>
+					<!--End: Logo-->
+
+					<!--Header Extras-->
+					<div class="header-extras">
+						<div class="global">
+							<button type="button">100원!</button>
+							<a class="linkCam" href="https://toss.me/snowfield/100" target="_black">100원 좋아!</a>
+						</div>
+					</div>
+					<!--end: Header Extras-->
+					<!--Navigation Resposnive Trigger-->
+					<div id="mainMenu-trigger">
+						<a class="lines-button x"><span class="lines"></span></a>
+					</div>
+					<!--end: Navigation Resposnive Trigger-->
+					<!--Navigation-->
+					<div id="mainMenu">
+						<div class="container">
+							<nav>
+								<ul>
+									<li class="dropdown"><a href="/html/cs_e.html">서비스</a>
+										<ul class="dropdown-menu">
+											<li><a href="/html/sf.html">Snowfield!</a></li>
+											<li class="active"><a href="/html/cs_e.html">ComSci_EZ</a></li>
+											<li><a href="/html/cs_n.html">ComSci_NM</a></li>
+											<li><a href="/html/cs_h.html">ComSci_HD</a></li>
+											<li><a href="/html/highscores.html">HighScoresList</a></li>
+										</ul>
+									</li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+					<!--end: Navigation-->
+				</div>
+			</div>
+		</header>
+		<!-- end: Header -->
+		<!-- Inspiro Slider -->
+		<div id="slider" class="inspiro-slider dots-creative" data-height-xs="360">
+			<!-- Slide 2 -->
+			<div class="slide kenburns" style="background-image:url('../images/custom/main_02.jpg');">
+				<div class="bg-overlay"></div>
+				<div class="container">
+					<div class="slide-captions text-center text-light">
+						<!-- Captions -->
+						<span class="strong">내용</span>
+						<h1>냐용</h1>
+						<!-- end: Captions -->
+					</div>
+				</div>
+			</div>
+			<!-- end: Slide 2 -->
+		</div>
+		<!--end: Inspiro Slider -->
+		<!-- Page Menu -->
+		<div class="page-menu">
+			<div class="container">
+				<nav>
+					<ul>
+						<li><a href="/html/sf.html">Snowfield!</a></li>
+						<li class="active"><a href="/html/cs_e.html">ComSci_EZ</a></li>
+						<li><a href="/html/cs_n.html">ComSci_NM</a></li>
+						<li><a href="/html/cs_h.html">ComSci_HD</a></li>
+						<li><a href="/html/highscores.html">HighScoresList</a></li>
+					</ul>
+				</nav>
+				<div id="pageMenu-trigger">
+					<i class="fa fa-bars"></i>
+				</div>
+			</div>
+		</div>
+		<!-- end: Page Menu -->
+		<section id="game" class="background-grey">
+			<div class="container">
+				<div class="justify-center flex-column">
+					<div id="hud">
+						<div id="hud-item">
+							<p id="progressText" class="hud-prefix">문제 수!</p>
+							<div id="progressBar">
+								<div id="progressBarFull"></div>
+							</div>
+						</div>
+						<div id="hud-item">
+							<a class="hud-prefix">몇개 맞췄어!</a>
+							<h1 class="hud-main-text" id="score">0</h1>
+						</div>
+					</div>
+					<h2 id="question" class="text-center"></h2>
+					<div class="choice-container">
+						<p class="choice-prefix">A</p>
+						<p class="choice-text text-center" data-number="1"></p>
+					</div>
+					<div class="choice-container">
+						<p class="choice-prefix">B</p>
+						<p class="choice-text text-center" data-number="2"></p>
+					</div>
+					<div class="choice-container">
+						<p class="choice-prefix">C</p>
+						<p class="choice-text text-center" data-number="3"></p>
+					</div>
+					<div class="choice-container">
+						<p class="choice-prefix">D</p>
+						<p class="choice-text text-center" data-number="4"></p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section id="end" class="background-grey hidden">
+			<div class="container">
+				<div class="flex-center flex-column">
+					<h1 id="finalScore"></h1>
+					<form>
+						<input type="text" name="username" id="username" placeholder="username" autocomplete="off" />
+						<button type="submit" class="btn" id="saveScoreBtn" onclick="saveHighScore(event)" disabled>짱 알리기!</button>
+					</form>
+					<a class="btn" href="/html/cs_e.html">당장 다시 담비기!</a>
+					<a class="btn" href="/html/index.html">나중에 덤비기!</a>
+				</div>
+			</div>
+		</section>
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="copyright-content">
+				<div class="container">
+					<div class="copyright-text">
+						<div class="row">
+							<div class="col-lg-3"><a href="#"><img src="../images/custom/mcnc_logo_b.png" alt="" /></a>
+							</div>
+							<div class="col-lg-6 text-left">
+								<span class="d-xl-block">명지대 정보통신공학과 들눈!!</span>
+							</div>
+							<div class="col-lg-3"><a href="https://toss.me/snowfield/100" target="_blank"
+									class="btn btn-inverted">100원 좋아!<i class="icon-chevron-right"></i></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- end: Footer -->
+	</div>
+	<!-- end: Body Inner -->
+	<!-- Scroll top -->
+	<a id="scrollTop"><i class="icon-chevron-up"></i><i class="icon-chevron-up"></i></a>
+	<!--Plugins-->
+	<script src="../js/end.js"></script>
+	<script src="../js/cs_e.js"></script>
+
+	<script src="../js/jquery.js"></script>
+	<script src="../js/plugins.js"></script>
+	<!--Template functions-->
+	<script src="../js/functions.js"></script>
+</body>
+
+</html>

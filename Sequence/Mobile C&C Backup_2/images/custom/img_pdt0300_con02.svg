@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="835" height="208.748" viewBox="0 0 835 208.748">
+    <defs>
+        <clipPath id="buo0264lta">
+            <path data-name="사각형 2578" style="fill:none" d="M0 0h9.225v11.339H0z"/>
+        </clipPath>
+        <clipPath id="kji29o4ikb">
+            <path data-name="사각형 2580" style="fill:none" d="M0 0h52.072v55.65H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 3698">
+        <text data-name="레거시 시스템" transform="translate(800 61.99)" style="font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;font-size:12px;fill:#1f1f1f"><tspan x="-34.482" y="0">레거시 시스템</tspan></text>
+        <g data-name="그룹 3691" transform="translate(-458 -172.06)">
+            <rect data-name="사각형 305" width="41.146" height="73.969" rx="7" transform="translate(458 172.06)" style="fill:#333"/>
+            <rect data-name="사각형 2575" width="23" height="23" rx="5" transform="translate(467 216)" style="fill:#fff"/>
+            <text transform="translate(479 230)" style="font-size:8px;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;fill:#1f1f1f"><tspan x="-7.716" y="0">App</tspan></text>
+            <text transform="translate(479 206)" style="font-size:8px;fill:#fff;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700"><tspan x="-13.836" y="0">iPhone</tspan></text>
+            <g data-name="그룹 3669">
+                <g data-name="그룹 3668" transform="translate(474.388 184.661)" style="clip-path:url(#buo0264lta)">
+                    <path data-name="패스 19825" d="M7.7 13.237a2.575 2.575 0 0 1 1.227-2.162 2.638 2.638 0 0 0-2.074-1.123c-.874-.092-1.722.524-2.167.524s-1.141-.515-1.879-.5A2.769 2.769 0 0 0 .478 11.4c-1.007 1.74-.256 4.3.709 5.712.483.69 1.047 1.461 1.785 1.433.722-.03.991-.46 1.863-.46s1.117.46 1.87.443c.775-.013 1.263-.693 1.728-1.39a5.675 5.675 0 0 0 .791-1.61A2.489 2.489 0 0 1 7.7 13.237" transform="translate(0 -7.207)" style="fill:#fff"/>
+                    <path data-name="패스 19826" d="M18.361 1.817A2.53 2.53 0 0 0 18.94 0a2.58 2.58 0 0 0-1.669.864 2.412 2.412 0 0 0-.6 1.75 2.133 2.133 0 0 0 1.685-.8" transform="translate(-12.078)" style="fill:#fff"/>
+                </g>
+            </g>
+        </g>
+        <g data-name="그룹 3692" transform="translate(-458 -132.281)">
+            <rect data-name="사각형 2576" width="41.146" height="73.969" rx="7" transform="translate(458 267.06)" style="fill:#333"/>
+            <rect data-name="사각형 2577" width="23" height="23" rx="5" transform="translate(467 311)" style="fill:#fff"/>
+            <text data-name="App" transform="translate(479 325)" style="font-size:8px;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;fill:#1f1f1f"><tspan x="-7.716" y="0">App</tspan></text>
+            <text data-name="Android Phone" transform="translate(479 294)" style="font-size:8px;fill:#fff;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700"><tspan x="-15.744" y="0">Android</tspan><tspan x="-12.62" y="8">Phone</tspan></text>
+            <path d="M159.1 196.982a.595.595 0 1 1 .595-.595.595.595 0 0 1-.595.595m-6.576 0a.595.595 0 1 1 .595-.595.595.595 0 0 1-.595.595m6.789-3.584 1.189-2.058a.247.247 0 1 0-.428-.247l-1.2 2.085a7.474 7.474 0 0 0-6.116 0l-1.2-2.085a.248.248 0 1 0-.431.247l1.189 2.059a7.02 7.02 0 0 0-3.642 5.619h14.291a7.021 7.021 0 0 0-3.642-5.619" transform="translate(322.33 86.307)" style="fill:#3ddc84"/>
+        </g>
+        <path data-name="사각형 127" transform="translate(249.426 44.509)" style="fill:#e5e5e5;stroke:#707070;stroke-dasharray:4" d="M0 0h105.31v121.983H0z"/>
+        <text transform="translate(302.081 110)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-19.356" y="0">Broker</tspan></text>
+        <path data-name="패스 19853" d="m0 6.466 9.424 6.288V0z" transform="translate(43.788 31.868)" style="fill:#a2a2a2"/>
+        <path data-name="패스 19848" d="m0 6.466 9.424 6.288V0z" transform="rotate(180 120.897 45.408)" style="fill:#a2a2a2"/>
+        <path data-name="패스 19849" d="m0 6.466 9.424 6.288V0z" transform="translate(561.057 99.702)" style="fill:#a2a2a2"/>
+        <path data-name="패스 19850" d="M7646.24 255.438h-129.233v-46.193h-53.774" transform="translate(-7412.209 -171)" style="stroke:#a2a2a2;stroke-width:2px;fill:none"/>
+        <g data-name="그룹 3695">
+            <path data-name="패스 19856" d="M0 6.288 9.424 0v12.754z" transform="translate(43.788 165.631)" style="fill:#a2a2a2"/>
+            <path data-name="패스 19854" d="M0 6.288 9.424 0v12.754z" transform="rotate(180 120.897 66.096)" style="fill:#a2a2a2"/>
+            <path data-name="패스 19855" d="M7646.24 209.245h-129.233v46.193h-53.774" transform="translate(-7412.209 -83.43)" style="stroke:#a2a2a2;stroke-width:2px;fill:none"/>
+        </g>
+        <path data-name="패스 19851" d="M7536.71 255.438h199.82" transform="rotate(180 4153.515 180.759)" style="stroke:#a2a2a2;stroke-width:2px;fill:none"/>
+        <path data-name="패스 19830" d="m0 6.466 9.424 6.288V0z" transform="rotate(180 205.974 56)" style="fill:#a2a2a2"/>
+        <path data-name="패스 19857" d="m0 6.466 9.424 6.288V0z" transform="translate(360.523 99.246)" style="fill:#a2a2a2"/>
+        <path data-name="패스 19831" d="M7536.709 255.438h35.63" transform="translate(-7168.05 -149.815)" style="stroke:#a2a2a2;stroke-width:2px;fill:none"/>
+        <text data-name="토픽 구독/발행/발생" transform="translate(166 110)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-50.304" y="0">토픽 구독/발행/발생</tspan></text>
+        <text data-name="정상/이종 데이터 실시간 수집" transform="translate(670 76)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-42.384" y="0">정상/이종 데이터</tspan><tspan x="-28.944" y="14">실시간 수집</tspan></text>
+        <text transform="translate(88 29)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-14.112" y="0">Push</tspan></text>
+        <g data-name="그룹 3696">
+            <path data-name="사각형 127" transform="translate(419.58 12.924)" style="fill:#2297fc" d="M0 0h136.258v186.31H0z"/>
+            <text data-name="MQTT Client Server" transform="translate(488.58 104.924)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700"><tspan x="-20.118" y="0">MQTT</tspan><tspan x="-44.618" y="17">Client Server</tspan></text>
+        </g>
+        <g data-name="그룹 3690">
+            <g data-name="그룹 3681" style="clip-path:url(#kji29o4ikb)" transform="translate(774 70.99)">
+                <path data-name="패스 19842" d="M2.329 55.65H25.2a2.415 2.415 0 0 0 2.413-2.413V2.413A2.415 2.415 0 0 0 25.2 0H2.329A2.4 2.4 0 0 0 0 2.413v50.824a2.4 2.4 0 0 0 2.329 2.413m21.628-7.321v1.248a.9.9 0 0 1-.831.832H4.492a.911.911 0 0 1-.916-.832v-1.248a.911.911 0 0 1 .916-.831h18.633a.894.894 0 0 1 .831.831M40.843 24.29a3.494 3.494 0 1 0-3.494-3.49 3.514 3.514 0 0 0 3.493 3.495m8.236 16.3v1a.612.612 0 0 1-.666.665H33.273a.679.679 0 0 1-.748-.665v-1a.732.732 0 0 1 .748-.665h15.139a.656.656 0 0 1 .666.665m0 4.575v1a.656.656 0 0 1-.666.665H33.273a.733.733 0 0 1-.748-.665v-1a.745.745 0 0 1 .748-.748h15.139a.68.68 0 0 1 .666.748m0 4.575v.916a.68.68 0 0 1-.666.748H33.273a.745.745 0 0 1-.748-.748v-.916a.746.746 0 0 1 .748-.749h15.139a.681.681 0 0 1 .666.749m-35.27-32.692a4.244 4.244 0 1 0-4.325-4.243 4.261 4.261 0 0 0 4.326 4.243m10.148 20.13v1.165a.911.911 0 0 1-.831.914H4.492a.923.923 0 0 1-.916-.914v-1.165a.924.924 0 0 1 .916-.916h18.633a.912.912 0 0 1 .831.916m0 5.573v1.166a.91.91 0 0 1-.831.914H4.492a.923.923 0 0 1-.916-.914v-1.166a.854.854 0 0 1 .916-.831h18.633a.833.833 0 0 1 .831.831m7.57 12.895h18.633a1.993 1.993 0 0 0 1.913-1.913V12.311a1.934 1.934 0 0 0-1.913-1.911H31.526a1.882 1.882 0 0 0-1.913 1.913v41.424a1.936 1.936 0 0 0 1.913 1.913" style="fill:#262626;fill-rule:evenodd"/>
+            </g>
+        </g>
+    </g>
+</svg>

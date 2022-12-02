@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1109" height="543.156" viewBox="0 0 1109 543.156">
+    <g data-name="그룹 3662">
+        <text data-name="Business Application" transform="translate(1 26.156)" style="font-size:15px;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;fill:#1f1f1f"><tspan x="0" y="0">Business</tspan><tspan x="0" y="18">Application</tspan></text>
+        <text transform="translate(1 517.598)" style="font-size:15px;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;fill:#1f1f1f"><tspan x="0" y="0">Middleware</tspan></text>
+        <text data-name="Business Common" transform="translate(1 154.156)" style="font-size:15px;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;fill:#1f1f1f"><tspan x="0" y="0">Business</tspan><tspan x="0" y="18">Common</tspan></text>
+        <text transform="translate(1 357.156)" style="font-size:15px;font-family:SpoqaHanSans-Bold,SpoqaHanSans;font-weight:700;fill:#1f1f1f"><tspan x="0" y="0">Framework</tspan></text>
+        <path data-name="사각형 2537" transform="rotate(90 44.058 103.942)" style="fill:#f0f0f0" d="M0 0h2v147H0z"/>
+        <path data-name="사각형 2574" transform="rotate(90 -196.52 344.52)" style="fill:#f0f0f0" d="M0 0h2v147H0z"/>
+        <path data-name="사각형 2570" transform="rotate(90 -37.578 185.578)" style="fill:#f0f0f0" d="M0 0h2v147H0z"/>
+        <path data-name="사각형 2571" transform="rotate(90 -150.578 298.578)" style="fill:#f0f0f0" d="M0 0h2v147H0z"/>
+        <path data-name="사각형 2568" transform="rotate(90 74 74)" style="fill:#f0f0f0" d="M0 0h2v147H0z"/>
+        <path data-name="사각형 2573" transform="rotate(90 -166.578 314.578)" style="fill:#f0f0f0" d="M0 0h2v147H0z"/>
+        <path data-name="사각형 2569" transform="rotate(90 27.922 120.078)" style="fill:#f0f0f0" d="M0 0h2v147H0z"/>
+        <path data-name="사각형 2572" transform="rotate(90 -52.078 200.078)" style="fill:#f0f0f0" d="M0 0h2v147H0z"/>
+        <path data-name="패스 19775" d="M0 5.577 8.128 11V0z" transform="rotate(90 71.486 76.514)" style="fill:#d6d6d6"/>
+        <path data-name="패스 19819" d="M0 5.577 8.128 11V0z" transform="rotate(90 -169.092 317.092)" style="fill:#d6d6d6"/>
+        <path data-name="패스 19813" d="M0 5.577 8.128 11V0z" transform="rotate(90 25.408 122.592)" style="fill:#d6d6d6"/>
+        <path data-name="패스 19816" d="M0 5.577 8.128 11V0z" transform="rotate(90 -54.592 202.592)" style="fill:#d6d6d6"/>
+        <path data-name="패스 19812" d="M0 5.577 8.128 11V0z" transform="rotate(-90 96.928 -40.072)" style="fill:#d6d6d6"/>
+        <path data-name="패스 19820" d="M0 5.577 8.128 11V0z" transform="rotate(-90 337.506 200.506)" style="fill:#d6d6d6"/>
+        <path data-name="패스 19814" d="M0 5.577 8.128 11V0z" transform="rotate(-90 178.506 41.506)" style="fill:#d6d6d6"/>
+        <path data-name="패스 19817" d="M0 5.577 8.128 11V0z" transform="rotate(-90 291.506 154.506)" style="fill:#d6d6d6"/>
+        <path data-name="패스 19811" d="M5539.5 160.028v29.515" transform="translate(-5397 -143.844)" style="fill:none;stroke:#d6d6d6;stroke-width:2px;stroke-dasharray:4"/>
+        <path data-name="패스 19821" d="M5539.5 160.028v29.515" transform="translate(-5397 337.312)" style="fill:none;stroke:#d6d6d6;stroke-width:2px;stroke-dasharray:4"/>
+        <path data-name="패스 19815" d="M5539.5 160.028v99.531" transform="translate(-5397 -51.372)" style="fill:none;stroke:#d6d6d6;stroke-width:2px;stroke-dasharray:4"/>
+        <path data-name="패스 19818" d="M5539.5 160.028v165.763" transform="translate(-5397 108.628)" style="fill:none;stroke:#d6d6d6;stroke-width:2px;stroke-dasharray:4"/>
+        <g data-name="그룹 3581">
+            <path data-name="사각형 127" transform="translate(166 .156)" style="fill:#f6f9fb" d="M0 0h95v62H0z"/>
+            <text transform="translate(214 36.156)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-14.166" y="0">Loan</tspan></text>
+        </g>
+        <g data-name="그룹 3650">
+            <path data-name="사각형 127" transform="translate(166 92.156)" style="fill:#2297fc" d="M0 0h467v62H0z"/>
+            <text data-name="Product Factory" transform="translate(403 128.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-52.934" y="0">Product Factory</tspan></text>
+        </g>
+        <g data-name="그룹 3652">
+            <path data-name="사각형 127" transform="translate(166 163.156)" style="fill:#2297fc" d="M0 0h943v62H0z"/>
+            <text data-name="Business System Common" transform="translate(645 199.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-87.598" y="0">Business System Common</tspan></text>
+        </g>
+        <g data-name="그룹 3661">
+            <path data-name="사각형 127" transform="translate(166 481.156)" style="fill:#414141" d="M0 0h943v62H0z"/>
+            <text data-name="Open Source Middleware Stacks" transform="translate(645 517.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-106.008" y="0">Open Source Middleware Stacks</tspan></text>
+        </g>
+        <g data-name="그룹 3653">
+            <path data-name="사각형 127" transform="translate(166 255.156)" style="fill:#67278e" d="M0 0h943v196H0z"/>
+        </g>
+        <g data-name="그룹 3651">
+            <path data-name="사각형 127" transform="translate(642 92.156)" style="fill:#2297fc" d="M0 0h467v62H0z"/>
+            <text data-name="Business Common" transform="translate(878 128.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-61.642" y="0">Business Common</tspan></text>
+        </g>
+        <g data-name="그룹 3644">
+            <path data-name="사각형 127" transform="translate(378 .156)" style="fill:#f6f9fb" d="M0 0h95v62H0z"/>
+            <text transform="translate(426 36.156)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-32.13" y="0">Accounting</tspan></text>
+        </g>
+        <g data-name="그룹 3646">
+            <path data-name="사각형 127" transform="translate(802 .156)" style="fill:#f6f9fb" d="M0 0h95v62H0z"/>
+            <text data-name="Trade Finance" transform="translate(850 29.156)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-16.596" y="0">Trade</tspan><tspan x="-22.32" y="14">Finance</tspan></text>
+        </g>
+        <g data-name="그룹 3642">
+            <path data-name="사각형 127" transform="translate(272 .156)" style="fill:#f6f9fb" d="M0 0h95v62H0z"/>
+            <text transform="translate(320 36.156)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-27.864" y="0">Customer</tspan></text>
+        </g>
+        <g data-name="그룹 3649">
+            <path data-name="사각형 127" transform="translate(696 .156)" style="fill:#f6f9fb" d="M0 0h95v62H0z"/>
+            <text data-name="Card/ATM" transform="translate(744 36.156)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-29.202" y="0">Card/ATM</tspan></text>
+        </g>
+        <g data-name="그룹 3643">
+            <path data-name="사각형 127" transform="translate(484 .156)" style="fill:#f6f9fb" d="M0 0h95v62H0z"/>
+            <text transform="translate(532 36.156)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-21.768" y="0">Deposit</tspan></text>
+        </g>
+        <g data-name="그룹 3647">
+            <path data-name="사각형 127" transform="translate(908 .156)" style="fill:#f6f9fb" d="M0 0h95v62H0z"/>
+            <text transform="translate(956 36.156)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-23.61" y="0">Channel</tspan></text>
+        </g>
+        <g data-name="그룹 3645">
+            <path data-name="사각형 127" transform="translate(590 .156)" style="fill:#f6f9fb" d="M0 0h95v62H0z"/>
+            <text transform="translate(638 36.156)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-7.266" y="0">FX</tspan></text>
+        </g>
+        <g data-name="그룹 3648">
+            <path data-name="사각형 127" transform="translate(1014 .156)" style="fill:#f6f9fb" d="M0 0h95v62H0z"/>
+            <text transform="translate(1062 36.156)" style="font-family:SpoqaHanSans-Regular,SpoqaHanSans;font-size:12px;fill:#1f1f1f"><tspan x="-23.352" y="0">External</tspan></text>
+        </g>
+        <g data-name="그룹 43">
+            <path data-name="패스 24" d="M318.869 422.676v12.13h-4.846v-11.16c0-5.422 2.73-8.112 8.149-8.112a8.866 8.866 0 0 1 5.67 1.616 9.088 9.088 0 0 1 5.67-1.545c5.42 0 8.112 2.691 8.076 8.112v11.161h-2.475c-1.581-.106-2.371-.861-2.371-2.369v-9.761c-.108-1.974-1.184-2.945-3.3-2.945s-3.193.971-3.227 2.945v12.059H325.4v-12.13c-.11-1.972-1.184-2.943-3.3-2.943s-3.2.966-3.231 2.942z" transform="translate(285.252 -13.027)" style="fill:#fff"/>
+            <path data-name="패스 25" d="M336.248 420.773h-4.777c.576-3.517 3.051-5.239 7.429-5.239 5.241 0 7.9 1.722 8.005 5.239v6.46c0 5.239-3.159 7.573-8.291 7.931-4.561.36-7.717-1.758-7.717-5.957.108-4.559 3.407-5.776 8.218-6.246 2.046-.25 3.087-.859 3.087-1.9-.108-1.076-1.114-1.616-3.087-1.616-1.683 0-2.615.434-2.867 1.328zm6.026 6.244v-1.76a20.643 20.643 0 0 1-3.8 1.152c-1.9.36-2.874 1.255-2.874 2.654a2.128 2.128 0 0 0 2.4 2.225 3.923 3.923 0 0 0 4.275-4.27z" transform="translate(298.278 -13.027)" style="fill:#fff"/>
+            <path data-name="패스 26" d="M341.23 424.885c.14-6.14 3.407-9.189 9.763-9.189h.68v4.952h-1.612c-2.66 0-3.987 1.4-3.987 4.164v9.869h-4.844z" transform="translate(306.252 -12.902)" style="fill:#fff"/>
+            <path data-name="패스 27" d="M364.35 427.109c0 3.266-.824 5.42-2.513 6.46a11.048 11.048 0 0 1-5.6 1.471 9.573 9.573 0 0 1-5.385-1.616c-1.651-1.04-2.474-3.122-2.474-6.315V415.7h4.772v12.38c0 2.121 1.075 3.159 3.23 3.159s3.228-1.038 3.228-3.159v-10.017a2.029 2.029 0 0 1 2.3-2.367h2.44z" transform="translate(311.773 -12.902)" style="fill:#fff"/>
+            <path data-name="패스 28" d="M314.023 428.017h3.611v.943h-2.566v1.022h2.261v.941h-2.261v1.836h-1.045z" transform="translate(285.252 -3.392)" style="fill:#fff"/>
+            <path data-name="패스 29" d="M319.028 428.017h2.172a1.862 1.862 0 0 1 1.379.482 1.455 1.455 0 0 1 .406 1.084v.011a1.479 1.479 0 0 1-.28.941 1.606 1.606 0 0 1-.733.53l1.159 1.694h-1.221l-1.014-1.517h-.822v1.517h-1.042zm2.1 2.3a.86.86 0 0 0 .594-.183.631.631 0 0 0 .207-.487v-.014a.607.607 0 0 0-.22-.509.974.974 0 0 0-.6-.168h-1.039v1.361z" transform="translate(289.115 -3.392)" style="fill:#fff"/>
+            <path data-name="패스 30" d="M325.938 428h.962l2.031 4.773h-1.088l-.436-1.065h-2l-.434 1.065h-1.061zm1.1 2.791-.627-1.538-.631 1.538z" transform="translate(292.883 -3.406)" style="fill:#fff"/>
+            <path data-name="패스 31" d="M329.131 428.017h1.123l1.242 2 1.253-2h1.122v4.742h-1.031v-3.1l-1.332 2.023h-.027l-1.32-2v3.074h-1.029z" transform="translate(296.913 -3.392)" style="fill:#fff"/>
+            <path data-name="패스 32" d="M334.593 428.017h3.569v.929h-2.539v.964h2.234v.927h-2.234v1h2.577v.927h-3.6z" transform="translate(301.129 -3.392)" style="fill:#fff"/>
+            <path data-name="패스 33" d="M338.722 428.022h1.118l.982 3.211 1.063-3.223h.891l1.063 3.223.983-3.211h1.091l-1.62 4.775h-.907l-1.068-3.1-1.072 3.1h-.907z" transform="translate(304.316 -3.397)" style="fill:#fff"/>
+            <path data-name="패스 34" d="M346.984 432.876a2.619 2.619 0 0 1-1.012-.193 2.484 2.484 0 0 1-.79-.521 2.341 2.341 0 0 1-.524-.774 2.421 2.421 0 0 1-.186-.95v-.014a2.406 2.406 0 0 1 .188-.952 2.592 2.592 0 0 1 .525-.78 2.524 2.524 0 0 1 .8-.528 2.609 2.609 0 0 1 1.013-.193 2.561 2.561 0 0 1 1.006.193 2.484 2.484 0 0 1 .8.523 2.352 2.352 0 0 1 .521.771 2.418 2.418 0 0 1 .186.951v.014a2.435 2.435 0 0 1-.186.951 2.445 2.445 0 0 1-1.325 1.308 2.641 2.641 0 0 1-1.016.194zm.014-.962a1.463 1.463 0 0 0 .576-.113 1.349 1.349 0 0 0 .448-.319 1.462 1.462 0 0 0 .291-.471 1.58 1.58 0 0 0 .1-.572v-.014a1.6 1.6 0 0 0-.1-.574 1.4 1.4 0 0 0-.3-.477 1.415 1.415 0 0 0-1.029-.44 1.361 1.361 0 0 0-1.026.432 1.488 1.488 0 0 0-.291.473 1.56 1.56 0 0 0-.1.57v.014a1.588 1.588 0 0 0 .1.576 1.389 1.389 0 0 0 .3.473 1.461 1.461 0 0 0 .455.324 1.4 1.4 0 0 0 .578.117z" transform="translate(308.755 -3.427)" style="fill:#fff"/>
+            <path data-name="패스 35" d="M349.879 428.017h2.167a1.881 1.881 0 0 1 1.384.482 1.469 1.469 0 0 1 .406 1.084v.011a1.5 1.5 0 0 1-.282.941 1.611 1.611 0 0 1-.735.53l1.157 1.694h-1.217l-1.017-1.517h-.819v1.517h-1.044zm2.1 2.3a.848.848 0 0 0 .594-.183.619.619 0 0 0 .207-.487v-.014a.61.61 0 0 0-.216-.509.983.983 0 0 0-.6-.168h-1.035v1.361z" transform="translate(312.928 -3.392)" style="fill:#fff"/>
+            <path data-name="패스 36" d="M354.96 428.017H356v2.071l1.926-2.071h1.258l-1.928 2.013 2.015 2.729h-1.251l-1.469-2.018-.549.569v1.449h-1.042z" transform="translate(316.85 -3.392)" style="fill:#fff"/>
+        </g>
+        <g data-name="그룹 3654">
+            <path data-name="사각형 127" transform="translate(186 275.156)" style="opacity:.2;fill:#fff" d="M0 0h218v47H0z"/>
+            <text data-name="maru Admin Web" transform="translate(295.981 304.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-57.008" y="0">maru Admin Web</tspan></text>
+        </g>
+        <g data-name="그룹 3658">
+            <path data-name="사각형 127" transform="translate(186 332.156)" style="opacity:.2;fill:#fff" d="M0 0h218v47H0z"/>
+            <text data-name="Eclipse based Development" transform="translate(295.981 361.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-90.433" y="0">Eclipse based Development</tspan></text>
+        </g>
+        <g data-name="그룹 3656">
+            <path data-name="사각형 127" transform="translate(414 275.156)" style="opacity:.2;fill:#fff" d="M0 0h218v47H0z"/>
+            <text data-name="Batch Framework" transform="translate(523.981 304.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-58.765" y="0">Batch Framework</tspan></text>
+        </g>
+        <g data-name="그룹 3659">
+            <path data-name="사각형 127" transform="translate(414 332.156)" style="opacity:.2;fill:#fff" d="M0 0h218v47H0z"/>
+            <text data-name="Batch Scheduler" transform="translate(523.981 361.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-54.362" y="0">Batch Scheduler</tspan></text>
+        </g>
+        <g data-name="그룹 3660">
+            <path data-name="사각형 127" transform="translate(642 332.156)" style="opacity:.2;fill:#fff" d="M0 0h447v47H0z"/>
+            <text data-name="Online Framework" transform="translate(868.524 361.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-60.907" y="0">Online Framework</tspan></text>
+        </g>
+        <g data-name="그룹 3657">
+            <path data-name="사각형 127" transform="translate(643 275.156)" style="opacity:.2;fill:#fff" d="M0 0h218v47H0z"/>
+            <text data-name="Centercut Framework" transform="translate(752.981 304.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-72.065" y="0">Centercut Framework</tspan></text>
+        </g>
+        <g data-name="그룹 3655">
+            <path data-name="사각형 127" transform="translate(871 275.156)" style="opacity:.2;fill:#fff" d="M0 0h218v47H0z"/>
+            <text data-name="Deferred Framework" transform="translate(980.981 304.156)" style="font-size:14px;fill:#fff;font-family:SpoqaHanSans-Regular,SpoqaHanSans"><tspan x="-67.977" y="0">Deferred Framework</tspan></text>
+        </g>
+    </g>
+</svg>

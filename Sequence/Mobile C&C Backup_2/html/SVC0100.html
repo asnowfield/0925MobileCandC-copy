@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ko">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="INSPIRO" />
+<meta name="description" content="">
+<link rel="icon" type="image/png" href="../images/custom/favicon.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Document title -->
+<title>정말? 퀴즈!</title>
+<!-- Stylesheets & Fonts -->
+<link href="../css/plugins.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
+<link href="../css/game.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="body-inner">
+		<!-- Header -->
+		<header id="header" data-transparent="true" data-fullwidth="true" class="dark submenu-light">
+			<div class="header-inner">
+				<div class="container">
+					<!--Logo-->
+					<div id="logo">
+						<a href="HOM0100.html">
+							<span class="logo-default"><img src="../images/custom/mcnc_logo_b.png" alt="" /></span>
+							<span class="logo-dark"><img src="../images/custom/mcnc_logo_w.png" alt="" /></span>
+						</a>
+					</div>
+					<!--End: Logo-->
+
+					<!--Header Extras-->
+					<div class="header-extras">
+						<div class="global">
+							<button type="button">어디서 왔어!</button>
+							<a class="linkCam" href="http://snowfield.cf" target="_black">원조 퀴즈</a>
+						</div>
+					</div>
+					<!--end: Header Extras-->
+					<!--Navigation Resposnive Trigger-->
+					<div id="mainMenu-trigger">
+						<a class="lines-button x"><span class="lines"></span></a>
+					</div>
+					<!--end: Navigation Resposnive Trigger-->
+					<!--Navigation-->
+					<div id="mainMenu">
+						<div class="container">
+							<nav>
+								<ul>
+									<li class="dropdown"><a href="ITD0100.html">음</a>
+										<ul class="dropdown-menu">
+											<li><a href="ITD0100.html">내용</a></li>
+											<li><a href="ITD0200.html">내용</a></li>
+											<li><a href="ITD0300.html">내용</a></li>
+										</ul>
+									</li>
+									<li class="dropdown"><a href="SVC0100.html">서비스</a>
+										<ul class="dropdown-menu">
+											<li><a href="SVC0100.html">정말? 퀴즈!</a></li>
+											<li><a href="SVC0200.html">흠</a></li>
+											<li><a href="SVC0300.html">내용</a></li>
+											<li><a href="SVC0400.html">내용</a></li>
+											<li><a href="SVC0500.html">내용</a></li>
+											<li><a href="SVC0600.html">내용</a></li>
+										</ul>
+									</li>
+									<li class="dropdown"><a href="PDT0100.html">흠</a>
+										<ul class="dropdown-menu">
+											<li><a href="PDT0100.html">내용</a></li>
+											<li><a href="PDT0200.html">내용</a></li>
+											<li><a href="PDT0300.html">내용</a></li>
+										</ul>
+									</li>
+									<li><a href="http://snowfield.cf" target="_blank">음</a></li>
+									<li class="dropdown"><a href="CLT0100.html">흠</a>
+										<ul class="dropdown-menu">
+											<li><a href="CLT0100.html">흠</a></li>
+											<li><a href="CLT0200.html">흠</a></li>
+										</ul>
+									</li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+					<!--end: Navigation-->
+				</div>
+			</div>
+		</header>
+		<!-- end: Header -->
+		<!-- Inspiro Slider -->
+		<div id="slider" class="inspiro-slider dots-creative" data-height-xs="360">
+			<!-- Slide 2 -->
+			<div class="slide kenburns" style="background-image:url('../images/custom/main_02.jpg');">
+				<div class="bg-overlay"></div>
+				<div class="container">
+					<div class="slide-captions text-center text-light">
+						<!-- Captions -->
+						<span class="strong">BUSINESS AREA</span>
+						<h1>MOBILE PLATFORM SUPPLY</h1>
+						<!-- end: Captions -->
+					</div>
+				</div>
+			</div>
+			<!-- end: Slide 2 -->
+
+		</div>
+		<!--end: Inspiro Slider -->
+		<!-- Page Menu -->
+		<div class="page-menu">
+			<div class="container">
+				<nav>
+					<ul>
+						<li class="active"><a href="SVC0100.html">정말? 퀴즈!</a></li>
+						<li><a href="SVC0200.html">흠</a></li>
+						<li><a href="SVC0300.html">흠</a></li>
+						<li><a href="SVC0400.html">흠</a></li>
+						<li><a href="SVC0500.html">흠</a></li>
+						<li><a href="SVC0600.html">흠</a></li>
+					</ul>
+				</nav>
+				<div id="pageMenu-trigger">
+					<i class="fa fa-bars"></i>
+				</div>
+			</div>
+		</div>
+		<!-- Page Menu -->
+		<section class="background-grey">
+
+			<body>
+				<div class="container">
+					<div id="game" class="justify-center flex-column">
+						<div id="hud">
+							<div id="hud-item">
+								<p id="progressText" class="hud-prefix text-center">문제 수!</p>
+								<div id="progressBar">
+									<div id="progressBarFull"></div>
+								</div>
+							</div>
+							<div id="hud-item">
+								<p class="hud-prefix text-center">몇개 맞췄어!</p>
+								<h1 class="hud-main-text text-center" id="score">0</h1>
+							</div>
+						</div>
+						<h2 id="question" class="text-center"></h2>
+						<div class="choice-container">
+							<p class="choice-prefix">1</p>
+							<p class="choice-text text-center" data-number="1"></p>
+						</div>
+						<div class="choice-container">
+							<p class="choice-prefix">2</p>
+							<p class="choice-text text-center" data-number="2"></p>
+						</div>
+						<div class="choice-container">
+							<p class="choice-prefix">3</p>
+							<p class="choice-text text-center" data-number="3"></p>
+						</div>
+						<div class="choice-container">
+							<p class="choice-prefix">4</p>
+							<p class="choice-text text-center" data-number="4"></p>
+						</div>
+					</div>
+					<script src="../js/quiz_local.js"></script>
+					<script src="../js/clock.js"></script>
+			</body>
+		</section>
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="copyright-content">
+				<div class="container">
+					<div class="copyright-text">
+						<div class="row">
+							<div class="col-lg-3"><a href="#"><img src="../images/custom/mcnc_logo_b.svg" alt="" /></a></div>
+							<div class="col-lg-6 text-left">
+								<span class="d-xl-block">서울특별시 강남구 학동로 158 (논현동, 율암빌딩 2층) </span>
+							</div>
+							<div class="col-lg-3"><a href="http://mobilecnc.com" target="_blank" class="btn btn-inverted">MCNC
+									Cambodia<i class="icon-chevron-right"></i></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- end: Footer -->
+	</div>
+	<!-- end: Body Inner -->
+	<!-- Scroll top -->
+	<a id="scrollTop"><i class="icon-chevron-up"></i><i class="icon-chevron-up"></i></a>
+	<!--Plugins-->
+	<script src="../js/jquery.js"></script>
+	<script src="../js/plugins.js"></script>
+	<script src="../js/quiz_local.js"></script>
+	<!--Template functions-->
+	<script src="../js/functions.js"></script>
+</body>
+
+</html>
